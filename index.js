@@ -7,7 +7,7 @@ app.use(cors());
 app.use(express.json());
 
 app.get("/", (req, res) => {
-  res.send("This server is Connected");
+  res.send("my name is vijay");
 });
 
 app.listen(PORT, () => {
