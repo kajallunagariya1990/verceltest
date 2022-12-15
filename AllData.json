@@ -1,0 +1,28 @@
+[
+    {
+        "id": "01",
+        "name": "ASUS (High Cooling/Performance & Blower-Style Coolers For Nvidia)",
+        "ìmage_url" : "https://i.ibb.co/KyZjn41/01.jpg"
+    },
+    {
+        "id": "02",
+        "name": "Gigabyte (Budget Value OR High-End Performance)",
+        "ìmage_url" : "https://i.ibb.co/k0JYNhK/02.jpg"
+    },
+    {
+        "id": "03",
+        "name": "MSI (Balanced Value)",
+        "ìmage_url" : "https://i.ibb.co/3rG1ZW8/1678052-radeon-ryzen-amplified-performance-1260x709.webp"
+        
+    },
+    {
+        "id": "04",
+        "name": "AMD Themselves (For Blower-Style Cards)",
+        "ìmage_url" : "https://i.ibb.co/JvKGz2p/msi-rtx-3050-gaming-x-review-09.jpg"
+    }
+]
+
+
+
+
+
